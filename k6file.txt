@@ -1,3 +1,9 @@
 ﻿This is first file pushed to K6 Group Repo
 
+This edit is done by Ugwoke Edward Chinedu
+
+This edit is done by Kenneth Nwangbo - Thanks
+
+This line displays Samuel Abafu Nwokpuru
+
 I am Isaiah Nweze and I pushed the second line of the code to the repository
